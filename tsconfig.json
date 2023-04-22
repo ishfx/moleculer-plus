@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "inlineSources": false,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "alwaysStrict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitThis": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "resolveJsonModule": true,
+    "composite": false,
+    "declaration": true,
+    "declarationMap": true,
+    "isolatedModules": false,
+    "module": "commonjs",
+    "target": "esnext",
+    "noImplicitAny": false,
+    "sourceMap": true,
+    "pretty": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "outDir": "./dist"
+  },
+  "include": ["./src/", "./test/"]
+}
