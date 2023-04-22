@@ -68,7 +68,7 @@ class User {
   @IsString({ max: 32 })
   name: string;
 
-  @IsNumber()
+  @IsNumber({ positive: true })
   age: number;
 
   @IsBoolean({ optional: true })
