@@ -1,4 +1,4 @@
-name: test and publish to npm
+name: CI
 
 on:
   push:

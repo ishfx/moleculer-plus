@@ -2,7 +2,7 @@
 
 # moleculer-plus
 
-[![Powered by moleculer](https://img.shields.io/badge/Powered%20by-Moleculer-green.svg?colorB=0e83cd)](http://moleculer.services/)
+[![Powered by moleculer](https://img.shields.io/badge/Powered%20by-Moleculer-green.svg?colorB=0e83cd)](http://moleculer.services/) [![CI](https://github.com/ishfx/moleculer-plus/actions/workflows/ci.yml/badge.svg)](https://github.com/ishfx/moleculer-plus/actions/workflows/ci.yml) [![NPM](https://img.shields.io/npm/v/moleculer-plus.svg?maxAge=3600)](https://www.npmjs.com/package/moleculer-plus)
 
 This library incorporate modern TypeScript features and syntax into MoleculerJS, a powerful microservices framework for Node.js, without the need to modify its core code, generate any files or perform any other setup steps. The library provides TypeScript decorators that can be directly applied to your code, making it a hassle-free experience.
 
